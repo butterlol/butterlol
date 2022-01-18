@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning C#, UnityEngine, Python
 - 💞️ I’m looking to collaborate on ... i work best alone?
 - 📫 How to reach me: digest#2114 on Discord, open to DM's
+- 📃 Current Projects: Unity VR Game, My first Unity VR Project
 
 <!---
 butterlol/butterlol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
